@@ -96,11 +96,11 @@ streamlit run app.py
 
 ### Home
 
-![Home](screenshots/home.png)
+![Home](screenshot/home.png)
 
 ### Prediction
 
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshot/prediction.png)
 
 ---
 
